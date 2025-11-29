@@ -1,0 +1,5 @@
+{
+  "name": "VocalRemover Pro",
+  "description": "High-fidelity AI audio source separation interface powered by Demucs architecture. Features drag-and-drop workflow and real-time stem preview.",
+  "requestFramePermissions": []
+}
